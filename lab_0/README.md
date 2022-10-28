@@ -1,4 +1,4 @@
-# Лабораторная работа № 1
+# Лабораторная работа № 0
 ## Описание набора данных
 Ссылка на набор данных: https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset
 
