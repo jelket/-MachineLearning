@@ -1,4 +1,4 @@
-Работу выполнил Аминов Степан, гр. М8О-308Б-19.
+# Лабораторная работа № 1
 ## Описание набора данных
 Ссылка на набор данных: https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset
 
